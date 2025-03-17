@@ -1,4 +1,5 @@
 Overview
+
 News website is a news-based website that provides categorized news articles across various sections. It is designed to offer users an easy-to-navigate platform for reading the latest updates in different fields, including world news, business, sports, entertainment, arts, and books.
 
 Features
